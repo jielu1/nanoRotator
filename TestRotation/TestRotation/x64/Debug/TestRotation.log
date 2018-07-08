@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\lsu\testkinesisrotation\testrotation\testrotation\main.cpp(160): warning C4800: 'short': forcing value to bool 'true' or 'false' (performance warning)
+  TestRotation.vcxproj -> D:\LSU\testKinesisRotation\TestRotation\x64\Debug\TestRotation.exe
+  TestRotation.vcxproj -> D:\LSU\testKinesisRotation\TestRotation\x64\Debug\TestRotation.pdb (Partial PDB)
